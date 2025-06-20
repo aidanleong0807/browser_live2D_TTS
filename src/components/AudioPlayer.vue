@@ -201,7 +201,7 @@ const startSpeak = (audioSrc: string) => {
 
 // Function to send the user input as a POST request
 const sendText = async () => {
-  const url = 'http://192.168.192.217:8081/audio';
+  const url = 'http://localhost:8081/audio';
   const payload = {
     text: userInput.value
   };
