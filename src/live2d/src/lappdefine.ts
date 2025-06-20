@@ -49,7 +49,7 @@ export const PowerImageName = 'CloseNormal.png';
 // ディレクトリ名とmodel3.jsonの名前を一致させておくこと
 //['Haru','Hiyori','Mark','Natori','Rice','Mao','Wanko']
 export const ModelDir: string[] = [
-  'mkk_Live2D'
+  'Hiyori'
 ];
 export const ModelDirSize: number = ModelDir.length;
 
